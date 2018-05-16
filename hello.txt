@@ -1,4 +1,2 @@
-helloworld
-12345
-67890
-hhhh
+Git is a version control system.
+Git is free software.
